@@ -43,6 +43,7 @@
 <li class="my-0">⚙️ <strong>API Integrations:</strong> Endpoints for question generation, feedback, and content management.</li>
 <li class="my-0">💾 <strong>Data Persistence:</strong> Efficient database interactions with Prisma, supporting scalable data storage.</li>
 <li class="my-0">🎙️ <strong>Voice Interviewing:</strong> Real-time voice-based interview simulations with structured questioning.</li>
+  <li class="my-0">Hr <strong>Recruitment :</strong> Connects you to the Hr of the company which suits you.</li>
 </ul>
 <hr>
 <h2>Getting Started</h2>
